@@ -1,0 +1,157 @@
+{
+  "nav": {
+    "services": "Servicios",
+    "work": "Trabajos",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "cta": "Trabajemos juntos"
+  },
+  "hero": {
+    "badge": "Software · Consultoría · Soluciones de Red",
+    "messages": ["Tecnología construida", "Integraciones de IA", "Conexiones de red", "Inteligencia de negocios", "Software construido"],
+    "line2": "donde opera",
+    "line3": "tu negocio.",
+    "subtext": "Somos Gembaloft — un equipo de software, consultoría y soluciones de red que estudia tu realidad antes de proponer nada. Desarrollo personalizado, BI, IA, consultoría IT e infraestructura. Todo bajo un mismo techo.",
+    "cta_primary": "Iniciar Proyecto",
+    "cta_secondary": "Ver Nuestro Trabajo",
+    "scroll": "Desplazar"
+  },
+  "logos": {
+    "trusted": "Con la confianza de"
+  },
+  "mission": {
+    "label": "— Nuestra misión",
+    "headline_1": "Construido desde",
+    "headline_2": "la raíz.",
+    "body_1": "La mayoría de los proyectos tech fracasan porque se diseñan desde suposiciones. Nosotros vamos a la fuente — tus flujos de trabajo, tu equipo, tus restricciones reales — y construimos desde ahí. Software, consultoría, infraestructura: la misma filosofía.",
+    "body_2": "Aparecemos donde ocurre el trabajo. No proponemos desde una presentación — construimos desde la realidad.",
+    "stats": [
+      { "number": "+50", "label": "Proyectos entregados" },
+      { "number": "5+",  "label": "Años de experiencia" },
+      { "number": "3",   "label": "Países atendidos" },
+      { "number": "100%","label": "Retención de clientes" }
+    ]
+  },
+  "services": {
+    "label": "— Lo que hacemos",
+    "headline_1": "Servicios diseñados",
+    "headline_2": "para problemas reales",
+    "cta": "Trabaja con nosotros",
+    "items": [
+      {
+        "title": "Soluciones de Software",
+        "description": "Desarrollo personalizado, Business Intelligence y herramientas con IA construidas alrededor de tus procesos reales. Aplicaciones web, APIs, dashboards y machine learning — nada de plantillas.",
+        "tag": "Dev · BI · IA"
+      },
+      {
+        "title": "Consultoría IT y de Negocios",
+        "description": "Diagnosticamos tus sistemas, mapeamos tus flujos de trabajo y diseñamos la estrategia que elimina los cuellos de botella. Desde roadmaps de IT hasta sistematización de procesos completa.",
+        "tag": "Consultoría"
+      },
+      {
+        "title": "Soluciones de Red",
+        "description": "Diseño, despliegue y soporte continuo de infraestructura — desde redes de oficina hasta conectividad en la nube. Confiable, segmentada y preparada para escalar sin sorpresas.",
+        "tag": "Redes"
+      }
+    ]
+  },
+  "process": {
+    "label": "— Cómo trabajamos",
+    "headline_1": "Del cero absoluto",
+    "headline_2": "al producto lanzado",
+    "subtitle": "Un proceso disciplinado basado en la observación, no en suposiciones.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Descubrir",
+        "description": "Vamos a tu lugar de trabajo. Observamos, preguntamos y entendemos antes de proponer cualquier solución."
+      },
+      {
+        "number": "02",
+        "title": "Definir",
+        "description": "Alcance, stack y hoja de ruta construidos sobre la realidad — no en plantillas ni suposiciones."
+      },
+      {
+        "number": "03",
+        "title": "Construir",
+        "description": "Entrega iterativa con tu equipo involucrado en cada etapa. Sin sorpresas."
+      },
+      {
+        "number": "04",
+        "title": "Lanzar",
+        "description": "Listo para producción, documentado y mantenido. Entregado en semanas, no en trimestres."
+      }
+    ]
+  },
+  "work": {
+    "label": "— Trabajo seleccionado",
+    "headline": "Problemas que hemos resuelto",
+    "view_all": "Ver todo",
+    "cases": [
+      {
+        "tag": "Soluciones de Software",
+        "title": "Plataforma de Operaciones Logísticas",
+        "outcome": "Automatización de despacho e inventario para un distribuidor regional, reduciendo la carga operativa un 40%.",
+        "metric": "−40%",
+        "metric_label": "carga operativa"
+      },
+      {
+        "tag": "Business Intelligence",
+        "title": "Dashboard BI Ejecutivo",
+        "outcome": "Visibilidad unificada de KPIs en tiempo real en 6 departamentos, reemplazando reportes manuales semanales.",
+        "metric": "6",
+        "metric_label": "departamentos unificados"
+      },
+      {
+        "tag": "Consultoría IT",
+        "title": "Sistematización de Procesos",
+        "outcome": "Mapeamos y automatizamos 14 flujos de trabajo manuales, ahorrando más de 20 horas por semana.",
+        "metric": "20+",
+        "metric_label": "horas / semana ahorradas"
+      },
+      {
+        "tag": "Soluciones de Red",
+        "title": "Modernización de Red Multi-Sitio",
+        "outcome": "Infraestructura redundante y segmentada en 3 sedes con migración sin tiempo de inactividad.",
+        "metric": "3",
+        "metric_label": "sedes conectadas"
+      }
+    ]
+  },
+  "why": {
+    "label": "— Por qué Gembaloft",
+    "headline_1": "Trabajamos donde",
+    "headline_2": "ocurre el trabajo.",
+    "items": [
+      {
+        "title": "Un equipo, tres disciplinas",
+        "description": "Software, consultoría y redes bajo un mismo techo — sin subcontrataciones, sin vacíos en la entrega. Somos dueños de todo el alcance."
+      },
+      {
+        "title": "Pensamiento orientado al proceso",
+        "description": "Mapeamos tus flujos de trabajo antes de recomendar cualquier solución. El resultado es tecnología que se adapta a tu operación — no al revés."
+      },
+      {
+        "title": "Con base en LATAM, listos para el mundo",
+        "description": "Alineados en zona horaria con las Américas, eficientes en costos y preparados para una asociación a largo plazo."
+      }
+    ]
+  },
+  "cta": {
+    "label": "— Construyamos",
+    "headline_1": "¿Listo para construir",
+    "headline_2": "algo real?",
+    "body": "Cuéntanos tu desafío. Nos presentamos.",
+    "cta_primary": "Iniciar Proyecto",
+    "cta_secondary": "o envíanos un correo →"
+  },
+  "footer": {
+    "tagline_1": "Construido desde la raíz.",
+    "tagline_2": "Soluciones de software arraigadas en tu realidad.",
+    "nav_label": "Navegación",
+    "connect_label": "Conectar",
+    "location": "Con base en LATAM · Alcance global",
+    "copyright": "Todos los derechos reservados.",
+    "built": "Construido desde la raíz."
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "nav": {
+    "services": "Services",
+    "work": "Work",
+    "about": "About",
+    "contact": "Contact",
+    "cta": "Work with Us"
+  },
+  "hero": {
+    "badge": "Software · Consulting · Network Solutions",
+    "messages": ["Technology built", "AI integrations", "Network connections", "Business intelligence", "Software built"],
+    "line2": "where your",
+    "line3": "business runs.",
+    "subtext": "We're Gembaloft — a software, consulting, and network solutions team that maps your reality before proposing anything. Custom development, BI, AI, IT consulting, and infrastructure. All under one roof.",
+    "cta_primary": "Start a Project",
+    "cta_secondary": "See Our Work",
+    "scroll": "Scroll"
+  },
+  "logos": {
+    "trusted": "Trusted by"
+  },
+  "mission": {
+    "label": "— Our mission",
+    "headline_1": "Built from the",
+    "headline_2": "ground up.",
+    "body_1": "Most tech projects fail because they're designed from assumptions. We go to the source — your workflows, your team, your real constraints — and build from there. Software, consulting, infrastructure: same philosophy.",
+    "body_2": "We show up where the work happens. We don't propose from a slide deck — we build from ground truth.",
+    "stats": [
+      { "number": "+50", "label": "Projects delivered" },
+      { "number": "5+",  "label": "Years of experience" },
+      { "number": "3",   "label": "Countries served" },
+      { "number": "100%","label": "Client retention" }
+    ]
+  },
+  "services": {
+    "label": "— What we do",
+    "headline_1": "Services built",
+    "headline_2": "for real problems",
+    "cta": "Work with us",
+    "items": [
+      {
+        "title": "Software Solutions",
+        "description": "Custom development, Business Intelligence, and AI-powered tools built around your actual processes. Web apps, APIs, data dashboards, and machine learning — none of it from a template.",
+        "tag": "Dev · BI · AI"
+      },
+      {
+        "title": "IT & Business Consulting",
+        "description": "We diagnose your systems, map your workflows, and design the strategy that removes bottlenecks before they become problems. From IT roadmaps to full process systematization.",
+        "tag": "Consulting"
+      },
+      {
+        "title": "Network Solutions",
+        "description": "Infrastructure design, deployment, and ongoing support — from office networks to cloud connectivity. Reliable, segmented, and built to scale without surprises.",
+        "tag": "Networking"
+      }
+    ]
+  },
+  "process": {
+    "label": "— How we work",
+    "headline_1": "From ground zero",
+    "headline_2": "to shipped product",
+    "subtitle": "A disciplined process built on observation, not assumption.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "description": "We go to your place of work. We observe, ask, and understand before we propose a single solution."
+      },
+      {
+        "number": "02",
+        "title": "Define",
+        "description": "Scope, stack, and roadmap built around reality — not templates or assumptions."
+      },
+      {
+        "number": "03",
+        "title": "Build",
+        "description": "Iterative delivery with your team in the loop at every stage. No surprises."
+      },
+      {
+        "number": "04",
+        "title": "Ship",
+        "description": "Production-ready, documented, and maintained. Delivered in weeks, not quarters."
+      }
+    ]
+  },
+  "work": {
+    "label": "— Selected work",
+    "headline": "Problems we've solved",
+    "view_all": "View all work",
+    "cases": [
+      {
+        "tag": "Software Solutions",
+        "title": "Logistics Operations Platform",
+        "outcome": "Automated dispatch and inventory workflows for a regional distributor, cutting operational overhead by 40%.",
+        "metric": "−40%",
+        "metric_label": "operational overhead"
+      },
+      {
+        "tag": "Business Intelligence",
+        "title": "Executive BI Dashboard",
+        "outcome": "Unified real-time KPI visibility across 6 departments, replacing weekly manual reporting cycles.",
+        "metric": "6",
+        "metric_label": "departments unified"
+      },
+      {
+        "tag": "IT Consulting",
+        "title": "Process Systematization",
+        "outcome": "Mapped and automated 14 manual workflows, saving 20+ hours per week across operations teams.",
+        "metric": "20+",
+        "metric_label": "hours / week saved"
+      },
+      {
+        "tag": "Network Solutions",
+        "title": "Multi-Site Network Upgrade",
+        "outcome": "Deployed redundant, segmented infrastructure across 3 office locations with zero-downtime migration.",
+        "metric": "3",
+        "metric_label": "sites connected"
+      }
+    ]
+  },
+  "why": {
+    "label": "— Why Gembaloft",
+    "headline_1": "We work where",
+    "headline_2": "the work happens.",
+    "items": [
+      {
+        "title": "One team, three disciplines",
+        "description": "Software, consulting, and networking under one roof — no subcontracting, no handoff gaps. We own the full scope."
+      },
+      {
+        "title": "Process-first thinking",
+        "description": "We map your workflows before recommending any solution. The result is technology that fits your operation — not the other way around."
+      },
+      {
+        "title": "LATAM-based, global-ready",
+        "description": "Timezone-aligned with the Americas, cost-efficient, and built for long-term partnership."
+      }
+    ]
+  },
+  "cta": {
+    "label": "— Let's build",
+    "headline_1": "Ready to build",
+    "headline_2": "something real?",
+    "body": "Tell us about your challenge. We'll show up.",
+    "cta_primary": "Start a Project",
+    "cta_secondary": "or send us an email →"
+  },
+  "footer": {
+    "tagline_1": "Built from the ground up.",
+    "tagline_2": "Software solutions grounded in your reality.",
+    "nav_label": "Navigation",
+    "connect_label": "Connect",
+    "location": "LATAM-based · Global-ready",
+    "copyright": "All rights reserved.",
+    "built": "Built from the ground up."
+  }
+}
