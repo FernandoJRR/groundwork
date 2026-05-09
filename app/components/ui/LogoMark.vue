@@ -4,7 +4,7 @@ const props = defineProps<{
 }>()
 
 const src = computed(() =>
-  props.variant === 'navy' ? '/images/logoBlack.png' : '/images/logoGreen.png'
+  props.variant === 'navy' ? '/images/logoBlack.png' : '/images/logoWhite.png'
 )
 </script>
 
