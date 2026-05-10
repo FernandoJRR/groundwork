@@ -83,36 +83,55 @@
       }
     ]
   },
+  "casestudies": {
+    "label": "— Trabajo seleccionado",
+    "headline_1": "Problemas resueltos,",
+    "headline_2": "resultados medidos.",
+    "subtitle": "Un vistazo más cercano a los desafíos que nuestros clientes nos trajeron y lo que construimos para resolverlos.",
+    "back": "Volver al inicio",
+    "industry_label": "Industria",
+    "services_label": "Servicios",
+    "coming_soon": "Caso completo próximamente",
+    "cta_label": "— Construyamos",
+    "cta_headline": "¿Tienes un problema que vale la pena resolver?",
+    "cta_button": "Iniciar Proyecto"
+  },
   "work": {
     "label": "— Trabajo seleccionado",
     "headline": "Problemas que hemos resuelto",
-    "view_all": "Ver todo",
+    "view_all": "Ver todos los casos",
+    "challenge_label": "El desafío",
+    "outcome_label": "Lo que hicimos",
     "cases": [
       {
         "tag": "Soluciones de Software",
         "title": "Plataforma de Operaciones Logísticas",
-        "outcome": "Automatización de despacho e inventario para un distribuidor regional, reduciendo la carga operativa un 40%.",
+        "challenge": "Un distribuidor regional gestionando despacho e inventario con planillas desconectadas y aprobaciones manuales — errores diarios, cuellos de botella constantes.",
+        "outcome": "Construimos una plataforma de operaciones personalizada que automatizó los flujos de despacho y unificó el seguimiento de inventario en toda la cadena, reduciendo la carga operativa un 40%.",
         "metric": "−40%",
         "metric_label": "carga operativa"
       },
       {
         "tag": "Business Intelligence",
         "title": "Dashboard BI Ejecutivo",
-        "outcome": "Visibilidad unificada de KPIs en tiempo real en 6 departamentos, reemplazando reportes manuales semanales.",
+        "challenge": "Seis departamentos manteniendo sus propios reportes de forma aislada, con directivos dependiendo de resúmenes manuales semanales que llegaban desactualizados.",
+        "outcome": "Un dashboard BI unificado en tiempo real que da visibilidad de KPIs en vivo a los directivos en los 6 departamentos, reemplazando el ciclo de reportes manuales.",
         "metric": "6",
         "metric_label": "departamentos unificados"
       },
       {
         "tag": "Consultoría IT",
         "title": "Sistematización de Procesos",
-        "outcome": "Mapeamos y automatizamos 14 flujos de trabajo manuales, ahorrando más de 20 horas por semana.",
+        "challenge": "Un equipo de operaciones gastando más de 20 horas semanales en tareas manuales repetitivas, sin documentación, sin estándares y sin visibilidad de dónde iba el tiempo.",
+        "outcome": "Mapeamos y automatizamos 14 flujos de trabajo manuales, liberando más de 20 horas semanales y entregando al equipo un sistema que pueden mantener y escalar.",
         "metric": "20+",
-        "metric_label": "horas / semana ahorradas"
+        "metric_label": "horas / semana liberadas"
       },
       {
         "tag": "Soluciones de Red",
         "title": "Modernización de Red Multi-Sitio",
-        "outcome": "Infraestructura redundante y segmentada en 3 sedes con migración sin tiempo de inactividad.",
+        "challenge": "Tres sedes con infraestructura obsoleta y sin segmentar — demasiado lenta para el crecimiento y demasiado expuesta para dejarse así.",
+        "outcome": "Infraestructura redundante y segmentada en las 3 sedes con migración sin tiempo de inactividad. Conectadas, seguras y preparadas para escalar.",
         "metric": "3",
         "metric_label": "sedes conectadas"
       }

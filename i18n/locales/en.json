@@ -83,36 +83,55 @@
       }
     ]
   },
+  "casestudies": {
+    "label": "— Selected work",
+    "headline_1": "Problems solved,",
+    "headline_2": "results measured.",
+    "subtitle": "A closer look at the challenges our clients brought us and what we built to solve them.",
+    "back": "Back to home",
+    "industry_label": "Industry",
+    "services_label": "Services",
+    "coming_soon": "Full case study coming soon",
+    "cta_label": "— Let's build",
+    "cta_headline": "Have a problem worth solving?",
+    "cta_button": "Start a Project"
+  },
   "work": {
     "label": "— Selected work",
     "headline": "Problems we've solved",
-    "view_all": "View all work",
+    "view_all": "View all case studies",
+    "challenge_label": "The challenge",
+    "outcome_label": "What we did",
     "cases": [
       {
         "tag": "Software Solutions",
         "title": "Logistics Operations Platform",
-        "outcome": "Automated dispatch and inventory workflows for a regional distributor, cutting operational overhead by 40%.",
+        "challenge": "A regional distributor managing dispatch and inventory through disconnected spreadsheets and manual approvals — daily errors, constant bottlenecks.",
+        "outcome": "We built a custom operations platform that automated dispatch workflows and unified inventory tracking across the full distribution chain, cutting operational overhead by 40%.",
         "metric": "−40%",
         "metric_label": "operational overhead"
       },
       {
         "tag": "Business Intelligence",
         "title": "Executive BI Dashboard",
-        "outcome": "Unified real-time KPI visibility across 6 departments, replacing weekly manual reporting cycles.",
+        "challenge": "Six departments each maintaining their own reports in isolation, with leadership relying on weekly manual summaries that were outdated before they arrived.",
+        "outcome": "A unified real-time BI dashboard giving leadership live KPI visibility across all 6 departments, replacing the manual reporting cycle entirely.",
         "metric": "6",
         "metric_label": "departments unified"
       },
       {
         "tag": "IT Consulting",
         "title": "Process Systematization",
-        "outcome": "Mapped and automated 14 manual workflows, saving 20+ hours per week across operations teams.",
+        "challenge": "An operations team spending 20+ hours weekly on repetitive manual tasks — no documentation, no standardization, and no visibility into where time was going.",
+        "outcome": "We mapped and automated 14 manual workflows, freeing over 20 hours per week and giving the team a system they could maintain and grow independently.",
         "metric": "20+",
-        "metric_label": "hours / week saved"
+        "metric_label": "hours / week freed"
       },
       {
         "tag": "Network Solutions",
         "title": "Multi-Site Network Upgrade",
-        "outcome": "Deployed redundant, segmented infrastructure across 3 office locations with zero-downtime migration.",
+        "challenge": "Three office locations running on aging, unsegmented infrastructure — too slow for growth and too exposed to leave as-is.",
+        "outcome": "Deployed redundant, segmented infrastructure across all 3 locations with a zero-downtime migration. Connected, secured, and built to scale.",
         "metric": "3",
         "metric_label": "sites connected"
       }
