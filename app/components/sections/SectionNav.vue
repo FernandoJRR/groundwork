@@ -24,12 +24,12 @@ const links = computed(() => [
     ]"
   >
     <div class="max-w-7xl mx-auto px-6 lg:px-8">
-      <nav class="flex items-center justify-between h-16">
+      <nav class="relative flex items-center justify-between h-16">
         <a href="#" class="flex items-center">
           <LogoMark variant="green" />
         </a>
 
-        <ul class="hidden md:flex items-center gap-8">
+        <ul class="hidden md:flex absolute left-1/2 -translate-x-1/2 items-center gap-8">
           <li v-for="link in links" :key="link.href">
             <a
               :href="link.href"
@@ -41,7 +41,7 @@ const links = computed(() => [
           </li>
         </ul>
 
-        <div class="flex items-center gap-4">
+        <div class="flex items-center justify-end -mr-2 md:gap-4">
           <!-- Language switcher -->
           <div class="hidden md:flex items-center gap-1.5 text-xs font-semibold">
             <NuxtLink
@@ -57,7 +57,7 @@ const links = computed(() => [
             >ES</NuxtLink>
           </div>
 
-          <BaseButton href="#contact" size="sm" class="hidden md:inline-flex">
+          <BaseButton href="#contact" size="sm" px="px-3" class="hidden md:inline-flex shrink-0">
             {{ t('nav.cta') }}
           </BaseButton>
 

@@ -9,5 +9,5 @@ const src = computed(() =>
 </script>
 
 <template>
-  <img :src="src" alt="Gembaloft" class="h-9 w-auto" />
+  <img :src="src" alt="Gembaloft" class="h-8 w-auto max-w-[150px] object-contain object-left" />
 </template>

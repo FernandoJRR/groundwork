@@ -1,5 +1,6 @@
 <script setup lang="ts">
 const { el, isVisible } = useScrollReveal(0.05)
+const useMatrix = Math.random() < 0.5
 const { t, tm, rt, locale } = useI18n()
 
 const messages = computed(() => (tm('hero.messages') as any[]).map(m => rt(m)))
@@ -76,6 +77,8 @@ onUnmounted(() => clearTimeout(timer))
 <template>
   <section id="hero" class="relative min-h-screen flex flex-col overflow-hidden bg-bg">
     <HexGrid />
+    <MatrixWatermark v-if="useMatrix" />
+    <CircuitWatermark v-else />
 
     <!-- Ambient glows -->
     <div class="absolute inset-0 pointer-events-none" aria-hidden="true">
@@ -99,6 +102,7 @@ onUnmounted(() => clearTimeout(timer))
           <span class="text-[11px] font-semibold tracking-widest uppercase text-muted">
             {{ t('hero.badge') }}
           </span>
+          <span class="pulse-dot w-1.5 h-1.5 rounded-full bg-accent" />
         </div>
         <div class="h-px w-12 bg-white/10" />
       </div>
@@ -110,7 +114,7 @@ onUnmounted(() => clearTimeout(timer))
         <div class="flex-1 min-w-0">
           <h1
             class="font-display font-black text-foreground tracking-tight"
-            style="font-size: clamp(2.8rem, 7vw, 6.5rem); line-height: 1.05;"
+            style="font-size: clamp(1.9rem, 4vw, 3.6rem); line-height: 1.05;"
           >
             <span class="block">
               <span>{{ displayText }}</span><span
